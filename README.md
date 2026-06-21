@@ -95,6 +95,49 @@ philosophy: "What's good is never easy, what's easy is never good."
 - 💬 Ask me about **React, Node.js, fintech, AI integration**
 - 📫 Reach me at **admin@klosraf.online**
 
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klosraf&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klosraf&theme=radical&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=klosraf&theme=react-dark&hide_border=true&area=true">
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=klosraf&theme=radical&no-frame=true&no-bg=true&row=2&column=4">
+</p>
+
+---
+
+### 🚀 Currently Building
+
+- **[Nexus Trader](https://nxtrader.io)** — Real-time automated trading platform (React, Node.js, Socket.IO, MySQL)
+- **[DevForge](https://github.com/klosraf/devforge)** — Automated dev environment setup (Shell, macOS/Linux, 200+ tools)
+- **[NodeNV](https://nodenv.online)** — AI automation lab & rapid prototyping
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://klosraf.online"><img src="https://img.shields.io/badge/Portfolio-klosraf.online-6366F1?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://linkedin.com/in/klosraf"><img src="https://img.shields.io/badge/LinkedIn-klosraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/klosraf"><img src="https://img.shields.io/badge/X-@klosraf-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:admin@klosraf.online"><img src="https://img.shields.io/badge/Email-admin@klosraf.online-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=klosraf&color=6366F1&style=flat-square&label=Profile+Views">
+</p>
+
 ---
 
 <p align="center">
